@@ -9,10 +9,13 @@
   "license": "",
   "dependencies": {
     "async": "^1.5.2",
+    "binaryjs": "^0.2.1",
+    "express": "^4.14.0",
     "google-auto-auth": "^0.2.4",
     "google-proto-files": "^0.3.0",
     "googleapis": "^12.0.0",
     "grpc": "^0.15.0",
-    "lodash": "^4.15.0"
+    "lodash": "^4.15.0",
+    "wav": "^1.0.1"
   }
 }
